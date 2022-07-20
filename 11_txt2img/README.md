@@ -31,3 +31,4 @@ It was also possible to demonstrate the feasibility of using diffusion models in
 
 - Graphs and images available Neptune: https://app.neptune.ai/leolellisr/dl-ia025/;
 - Saved models: https://drive.google.com/drive/folders/15eIsUCaQS-sAHxsbwbB9OU6bSPVZ_g85?usp=sharing
+- ppt presentation: https://docs.google.com/presentation/d/182YQUwR82r37zeTlkq9fBs0v3ADj0QdJSqjmIH9NWs4/edit?usp=sharing
