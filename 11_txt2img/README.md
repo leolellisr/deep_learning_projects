@@ -30,7 +30,7 @@ It was also possible to demonstrate the feasibility of using diffusion models in
 ## Links
 
 - Graphs and images available Neptune: https://app.neptune.ai/leolellisr/dl-ia025/;
-- Saved models: https://drive.google.com/drive/folders/15eIsUCaQS-sAHxsbwbB9OU6bSPVZ_g85?usp=sharing
+- Saved models: https://drive.google.com/drive/folders/1KQi_PnstDKaVAq__6-E-RSy9CApdHcBC?usp=sharing
 - ppt presentation: https://docs.google.com/presentation/d/182YQUwR82r37zeTlkq9fBs0v3ADj0QdJSqjmIH9NWs4/edit?usp=sharing
 - paper pdf: https://github.com/leolellisr/deep_learning_projects/blob/main/11_txt2img/paper_Final_Project_DL_22.pdf
 - paper Overleaf: https://www.overleaf.com/read/rrsmrbscmnxf
